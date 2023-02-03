@@ -26,10 +26,10 @@ body {
 
 
     background-color: hsl(185, 75%, 39%);
-    width: 1440px;
+
 
     max-height: 100vh;
-    overflow: hidden;
+
 }
 
 main {
@@ -69,10 +69,11 @@ main {
 }
 
 .bott {
-    height: 40rem;
-    width: 50rem;
+    height: 37rem;
+    width: 60rem;
 
     translate: -6rem 30rem;
+    overflow: hidden;
 
 
 }
